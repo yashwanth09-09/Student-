@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A modern, highly-polished Student Management System with rich analytics dashboard, real-time validations, data export/import capabilities, and a gorgeous glassmorphism user interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
